@@ -1,0 +1,7 @@
+torch
+transformers
+streamlit
+numpy
+pandas
+beautifulsoup4
+emoji
